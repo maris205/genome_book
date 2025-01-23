@@ -10,12 +10,12 @@ pretrain data could be found in https://huggingface.co/dnagpt/genome_book
 # DNA model list
 * tokenizer BPE train
 * gene_eng_gpt2_pretrain pretrained model
--- gene_eng_gpt2_finetune finetune model with paws-x
--- gene_eng_gpt2_para_seg paragraph segment model
--- gene_eng_gpt2_sentence_seg  sentence segment model
--- gene_eng_gpt2_summary  summary model
--- dna_word_trans  DNA to ENG translation
+* gene_eng_gpt2_finetune finetune model with paws-x
+* gene_eng_gpt2_para_seg paragraph segment model
+* gene_eng_gpt2_sentence_seg  sentence segment model
+* gene_eng_gpt2_summary  summary model
+* dna_word_trans  DNA to ENG translation
 
 # other dir
--- book_example genome book example
--- generate_book process to generate genome book, follow step index 
+* book_example genome book example
+* generate_book process to generate genome book, follow step index 
