@@ -8,8 +8,8 @@ Since the completion of the human genome sequencing project in 2001, significant
 pretrain data could be found in https://huggingface.co/dnagpt/genome_book
 
 # DNA model list
--- tokenizer BPE train
--- gene_eng_gpt2_pretrain pretrained model
+* tokenizer BPE train
+* gene_eng_gpt2_pretrain pretrained model
 -- gene_eng_gpt2_finetune finetune model with paws-x
 -- gene_eng_gpt2_para_seg paragraph segment model
 -- gene_eng_gpt2_sentence_seg  sentence segment model
